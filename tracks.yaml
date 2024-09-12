@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/locator_ros_bridge-release.git
 tracks:
   foxy:
     actions:
