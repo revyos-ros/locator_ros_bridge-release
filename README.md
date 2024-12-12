@@ -1,3 +1,28 @@
+## locator_ros_bridge (humble) - 2.1.13-1
+
+The packages in the `locator_ros_bridge` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble locator_ros_bridge --override-release-repository-push-url git@github.com:revyos-ros/locator_ros_bridge-release.git` on `Thu, 12 Dec 2024 13:18:44 -0000`
+
+These packages were released:
+- `bosch_locator_bridge`
+- `bosch_locator_bridge_utils`
+
+Version of package(s) in repository `locator_ros_bridge`:
+
+- upstream repository: https://github.com/boschglobal/locator_ros_bridge.git
+- release repository: https://github.com/revyos-ros/locator_ros_bridge-release.git
+- rosdistro version: `2.1.13-1`
+- old version: `2.1.11-1`
+- new version: `2.1.13-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## locator_ros_bridge (humble) - 2.1.11-1
 
 The packages in the `locator_ros_bridge` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble locator_ros_bridge --override-release-repository-push-url git@github.com:revyos-ros/locator_ros_bridge-release.git` on `Thu, 12 Sep 2024 04:24:55 -0000`
